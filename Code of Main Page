@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>
+The Fourty Rules of Love <br>
+By Elif Shafak
+        </title>
+        <link rel="stylesheet" href="style.css"
+        type="text/css">
+        <link rel="icon" href="6642715.jpeg">
+    </head>
+    <body>
+        <div class="btn"><a href="https://www.elifsafak.com.tr/home"><button  class="btn"><i class="fa fa About Author"></i>About Author</button></a>
+            <a href="Gallery.html"><button  class="btn"><i class="fa fa Author Books"></i>Author Books</button></a>
+            <a href="Form.html"><button  class="btn"><i class="fa fa Suggestion to Author"></i>Suggestion to Author</button></a>
+            <a href="TABLE.html"><button class="btn">Awards</button></a></div>
+        
+        
+     <h1>The Fourty Rules of Love</h1>
+     <a href="https://en.wikipedia.org/wiki/The_Forty_Rules_of_Love"><marquee behavior="move" direction="left"> <img src="download 6.10.46 PM.jpeg" alt=""></marquee></a>
+        <p>The Forty Rules of Love is a novel written by the Turkish author Elif Shafak, 
+        Her interest in writing this book was influenced by the degree she received 
+        in Gender and Women’s Studies. The book was published in March 2009.
+         It is about Maulana Jalal-Ud-Din, known as Rumi and his companion Shams Tabrizi. </p>
+        <div class="footer"> <hr><footer >Semester Project Web Site Copyright © 2024 | Design and Application: Aimal Khan</footer><hr></div>
+    </body>
+</html>
