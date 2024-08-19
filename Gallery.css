@@ -1,0 +1,25 @@
+body{
+    background-image: url(Rumi-Quotes.png);
+}
+h1{
+    font-size: 100px;
+    text-decoration: dotted;
+    text-decoration-style: dotted;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 7px 7px rgb(213, 222, 226);
+    color: rgb(0, 5, 1);
+    text-overflow: ellipsis;
+     
+    text-decoration: underline;
+    
+}
+button {
+    font-size: 15px;
+    padding: 8px 14px;
+    color: rgb(9, 13, 13);
+    border-radius: 10px;
+    position: absolute;
+    border-left-width: 10px 10px;
+    
+}

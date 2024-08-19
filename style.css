@@ -1,0 +1,53 @@
+body {
+    text-align: left;
+   
+    font-size: 200%;
+    text-decoration-color: burlywood;
+    background-image: url(sky-5114501_640.jpeg);
+    background-size: cover;
+    img {
+    border: 1px solid #ddd;
+    max-width: 100px;
+     
+    }
+    
+    
+  }
+  h1 {
+    color: rgb(99, 7, 7);
+    text-align: center;
+    font-style: oblique;
+    padding: 12px 12px;
+    border: 2px;
+    text-emphasis: none;
+    text-decoration: underline;
+    text-shadow: 5px;
+    text-shadow: 3px 3px rgb(241, 247, 247);
+  }
+  p {
+    color: white;
+    font-size: 88%;
+    font-style: italic;
+  }
+.btn {
+  border-radius: 15px;
+    color: rgb(241, 247, 247);
+    margin: 5px 1px;
+    background-color: rgb(37, 53, 86);
+    padding: 10px 10px;
+ }
+ head{
+  text-align: center;
+ }
+ .footer {
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+  color: rgb(4, 2, 0);
+  text-decoration: double;
+  text-decoration-color: rgb(0, 0, 0);
+  text-decoration: solid;
+  text-decoration-style: double;
+  background-color: rgb(215, 199, 178);
+  margin-top: 115px;
+ }
